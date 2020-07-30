@@ -1,6 +1,6 @@
 import React from 'react'
 
-const About = (props) => {
+export const About = () => {
     return (
         <div className="jumbotron">
             <div className="container">
@@ -10,4 +10,3 @@ const About = (props) => {
         </div>
     )
 }
-export default About;
