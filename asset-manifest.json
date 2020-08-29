@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-hooks-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-hooks-app/static/js/main.8b68452d.chunk.js",
-    "main.js.map": "/react-hooks-app/static/js/main.8b68452d.chunk.js.map",
-    "runtime-main.js": "/react-hooks-app/static/js/runtime-main.857c2ab3.js",
-    "runtime-main.js.map": "/react-hooks-app/static/js/runtime-main.857c2ab3.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/react-hooks-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c07387af.chunk.js": "/react-hooks-app/static/js/2.c07387af.chunk.js",
-    "static/js/2.c07387af.chunk.js.map": "/react-hooks-app/static/js/2.c07387af.chunk.js.map",
-    "index.html": "/react-hooks-app/index.html",
-    "precache-manifest.14494264f9da2d740c3469aa2025a09c.js": "/react-hooks-app/precache-manifest.14494264f9da2d740c3469aa2025a09c.js",
-    "service-worker.js": "/react-hooks-app/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/react-hooks-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/react-hooks-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c07387af.chunk.js.LICENSE.txt": "/react-hooks-app/static/js/2.c07387af.chunk.js.LICENSE.txt"
+    "main.css": "/navmenu-project/static/css/main.bb2aedfe.chunk.css",
+    "main.js": "/navmenu-project/static/js/main.1a13a83b.chunk.js",
+    "main.js.map": "/navmenu-project/static/js/main.1a13a83b.chunk.js.map",
+    "runtime-main.js": "/navmenu-project/static/js/runtime-main.ee161f55.js",
+    "runtime-main.js.map": "/navmenu-project/static/js/runtime-main.ee161f55.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/navmenu-project/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c07387af.chunk.js": "/navmenu-project/static/js/2.c07387af.chunk.js",
+    "static/js/2.c07387af.chunk.js.map": "/navmenu-project/static/js/2.c07387af.chunk.js.map",
+    "index.html": "/navmenu-project/index.html",
+    "precache-manifest.43833188e228d851122645befe65ec00.js": "/navmenu-project/precache-manifest.43833188e228d851122645befe65ec00.js",
+    "service-worker.js": "/navmenu-project/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/navmenu-project/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.bb2aedfe.chunk.css.map": "/navmenu-project/static/css/main.bb2aedfe.chunk.css.map",
+    "static/js/2.c07387af.chunk.js.LICENSE.txt": "/navmenu-project/static/js/2.c07387af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.857c2ab3.js",
+    "static/js/runtime-main.ee161f55.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c07387af.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8b68452d.chunk.js"
+    "static/css/main.bb2aedfe.chunk.css",
+    "static/js/main.1a13a83b.chunk.js"
   ]
 }
